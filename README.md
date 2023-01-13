@@ -1,2 +1,2 @@
-# image-search-engine
- A website that brings all the images of a desired theme, includes a pager and the URL for downloading any desired image.
+# Image search engine in <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ A website that consume an API and brings all the images of a desired theme, includes a pager and the URL for downloading any desired image.
